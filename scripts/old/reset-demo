@@ -1,0 +1,5 @@
+kill-android-stuff
+rm -rf node_modules/
+rm -rf platforms/
+npm install
+tns build android

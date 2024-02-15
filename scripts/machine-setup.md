@@ -1,0 +1,6 @@
+- add chocolatey
+- add python2 (after anaconda install in choco)
+- go through AHQ allocation dev setup
+- go through labskit setup
+- get rdpman file(s)
+- get ssh id files

@@ -1,0 +1,1 @@
+Oaf.DeploymentInfo was at one time served from here but has since been pushed up to nuget.org. Kept here for reference and historical purposes
