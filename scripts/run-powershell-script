@@ -1,0 +1,7 @@
+if test -f $1.ps1; then
+  powershell $1.ps1 $2 $3
+  exit
+else
+  echo "Powershell script not found $1.ps1"
+  exit 1
+fi
