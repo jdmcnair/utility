@@ -1,3 +1,4 @@
+#!/bin/bash
 if test -f $1.ps1; then
   powershell $1.ps1 $2 $3
   exit
