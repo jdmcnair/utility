@@ -6,6 +6,7 @@ choco install -y kubernetes-helm
 choco install -y azure-cli
 choco install -y vscode
 choco install -y notepadplusplus
+choco install -y terraform
 REM choco install -y gitkraken
 REM choco install -y virtualbox
 REM choco install -y docker-toolbox
@@ -13,6 +14,7 @@ REM choco install -y vagrant
 choco install -y anaconda3 /AddToPath
 choco install -y mongodb
 choco install -y studio3t
+choco install -y make
 choco install -y postman
 choco install -y openlens --version=6.2.3
 choco install -y winscp.install
