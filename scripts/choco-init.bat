@@ -11,7 +11,7 @@ REM choco install -y gitkraken
 REM choco install -y virtualbox
 REM choco install -y docker-toolbox
 REM choco install -y vagrant
-choco install -y anaconda3 /AddToPath
+choco install -y anaconda3 --params '"/AddToPath"'
 choco install -y mongodb
 choco install -y studio3t
 choco install -y make
@@ -20,7 +20,7 @@ choco install -y openlens --version=6.2.3
 choco install -y winscp.install
 REM choco install -y tortoisesvn
 REM below has an issue with login
-choco install -y oracle-sql-developer --params="'/Username:jmcnair@surgeforward.com /Password:UF7h1FM08mqf'"
+REM choco install -y oracle-sql-developer --params="'/Username:jmcnair@surgeforward.com /Password:xxxx'"
 choco install -y sql-server-management-studio
 
 REM choco install docker-desktop
