@@ -35,7 +35,7 @@ choco install -y mremoteng
 choco install -y microsoftazurestorageexplorer
 
 REM Media
-choco install vlc
+choco install -y vlc
 
 REM AHQ allocations requirements
 REM choco install -y jdk8
