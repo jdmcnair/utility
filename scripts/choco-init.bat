@@ -1,3 +1,7 @@
+REM installing various tools
+REM To download jq utility into git bash:
+REM curl -L -o /usr/bin/jq.exe https://github.com/jqlang/jq/releases/latest/download/jq-win64.exe
+
 REM Development
 choco install -y 7zip
 choco install -y nvm
