@@ -4,5 +4,6 @@
 bin/chromedriver.exe
 bin/draw.io.exe
 bin/protoc.exe
+bin/fakeSMTP-2.0.jar
 protoc-3.19.1-win64/bin/protoc.exe
 NuGetRepo/Thumbs.db
