@@ -22,6 +22,7 @@ choco install -y make
 choco install -y postman
 choco install -y openlens --version=6.2.3
 choco install -y winscp.install
+choco install -y openvpn
 REM choco install -y tortoisesvn
 REM below has an issue with login
 REM choco install -y oracle-sql-developer --params="'/Username:jmcnair@surgeforward.com /Password:xxxx'"
