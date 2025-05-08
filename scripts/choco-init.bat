@@ -7,6 +7,8 @@ choco install -y 7zip
 choco install -y nvm
 choco install -y git
 choco install -y kubernetes-helm
+choco install -y kubectl
+choco install -y azure-kubelogin
 choco install -y azure-cli
 choco install -y vscode
 choco install -y notepadplusplus
